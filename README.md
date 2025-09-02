@@ -36,7 +36,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="80" title="Pandas"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="80" title="NumPy"/>
 <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="80" title="Scikit-learn"/>
-<img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" width="80" title="Data Analysis"/>
 
 <!-- Tools -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="60" title="Jupyter"/>
