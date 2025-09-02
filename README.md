@@ -20,7 +20,7 @@
 <p align="center">
   
 <!-- Programming -->
-<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="60" title="Python"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" title="Python"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" title="C++"/>
 
 <!-- Web / Frontend -->
